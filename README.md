@@ -1,16 +1,34 @@
-## Hi there 👋
+# Hi, I'm Paulo Werder 👋
 
-<!--
-**pwerder/pwerder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+PHP/Laravel developer focused on scalable backend applications and RESTful APIs.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Tech Stack
+
+<p>
+  <img src="https://skillicons.dev/icons?i=php,laravel,docker,mysql,git,linux" />
+</p>
+
+---
+
+## 📌 Featured Project
+
+### Taskflow API
+
+Task management API built with Laravel following clean architecture principles.
+
+Features:
+- RESTful API
+- Authentication
+- Docker environment
+- Queue system
+
+🔗 Repository:  
+https://github.com/pwerder/taskflow-api
+
+---
+
+## 📫 Contact
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/paulo-werder/)
