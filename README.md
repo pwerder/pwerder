@@ -27,6 +27,27 @@ Features:
 🔗 Repository:  
 https://github.com/pwerder/taskflow-api
 
+### AI Document Analyzer API
+
+AI-powered document processing API built with Laravel. It allows users to upload documents, extract content, generate AI summaries, and ask questions based on document content.
+
+Features:
+- RESTful API
+- Authentication with Sanctum
+- Document upload and storage (Filesystem)
+- Background processing with Queues & Jobs
+- Automatic text extraction
+- AI-powered summarization (OpenAI)
+- Question answering based on document content
+- Question history tracking
+- Access control with Policies
+- Pagination and filtering
+- API Resources for response formatting
+- Automated tests
+
+🔗 Repository:  
+https://github.com/pwerder/ai-document-analyzer
+
 ---
 
 ## 📫 Contact
